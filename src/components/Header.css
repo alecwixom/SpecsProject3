@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 145, 0);
+    height: 60px;
+    padding: 0 20px;
+    font-family:sans-serif ;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    border: none;
+    margin-right: 10px;
+    background: none;
+    color: white;
+    font-family: sans-serif;
+}
+button:hover {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+h2 {
+    margin: 0;
+    color: white;
+
+}
